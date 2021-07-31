@@ -60,9 +60,6 @@ export JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64/"
 export PATH="$HOME/.gem/ruby/2.7.0/bin:$PATH"
 export PATH="$HOME/.ghcup/bin:$PATH"
 
-#echo 'eval "$(/home/emera/.linuxbrew/bin/brew shellenv)"' >> /home/emera/.profile
-export PATH="$HOME/.linuxbrew/bin:$PATH"
-
 #export N_PREFIX="$HOME/.local"
 export N_PREFIX=$HOME/.n
 export PATH=$N_PREFIX/bin:$PATH
